@@ -1,7 +1,7 @@
 import json
 import datetime
 
-
+print("hello")
 def handler(event, context):
     data = {
         'output': 'Hello World',
